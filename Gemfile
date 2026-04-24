@@ -38,4 +38,4 @@ gem "csv", "~> 3.3"
 
 gem "bigdecimal", "~> 4.1"
 
-gem "liquid", "~> 4.0.2"
+gem "liquid", "~> 4.0.3"
