@@ -1,2 +1,3 @@
-name: mlb-gh.github.io (EDIT)
-theme: minima
+name: mlb-gh_homepage
+theme: jekyll-theme-minimal
+description: Description
