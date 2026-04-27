@@ -52,5 +52,5 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-exclude: ["about.md"]
+exclude: ["about.markdown"]
 
