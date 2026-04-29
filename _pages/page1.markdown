@@ -1,6 +1,8 @@
 ---
-layout: default
+title: "Your Page Title"
+layout: page
 ---
+
 <article class="post">
 
   <header class="post-header">
